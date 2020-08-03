@@ -1,7 +1,7 @@
 # HolDivTempEur
 code for SiZer analysis for manuscript "Holocene plant diversity dynamics shows a distinct biogeographical pattern in temperate Europe" by Roleček J., Abraham V., Vild O., Svitavská Svobodová H., Jamrichová E., Plesková Z., Pokorný P. & Kuneš P.  
   
-Download data from Zenodo 10.5281/zenodo.3971180.  
+Download data from Zenodo  https://doi.org/10.5281/zenodo.3971180.  
 Store them in the folder "original_data_100grains".  
 Prepare sibling folder "ready_data".  
 Run SiZer analysis by "SiZer_analysis.R".  
